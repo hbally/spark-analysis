@@ -12,7 +12,9 @@ import java.lang.reflect.Modifier;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
-
+/**
+ * jvm堆外内存
+ */
 public class UnsafeTest {
     private Unsafe unsafe;
 
